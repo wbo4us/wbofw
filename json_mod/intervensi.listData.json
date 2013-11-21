@@ -1,0 +1,30 @@
+{
+   "id": "intervensi-entrydata",
+
+   "app": "simnangkis",
+   
+   "about": {
+      "author": "Wimbo",
+      "description": "Module Entry Data Intervensi Program",
+      "name": "Entry Data",
+      "url": "me.com",
+      "version": "1.0"
+   },
+   
+   "module": {
+		"class" :"EntriIntervensiProgram",
+		"actions": [
+		]	
+	},
+	
+   "menu": "Intervensi Program/",
+
+   "icon": {
+      "image": "icon.png",
+	  "cls": "icon-module"
+   },
+      
+   "active": 1,
+   
+   "installed": 0
+}

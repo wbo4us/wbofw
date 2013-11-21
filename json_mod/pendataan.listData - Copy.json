@@ -1,0 +1,30 @@
+{
+   "id": "pendataan-listdata",
+
+   "app": "simnangkis",
+   
+   "about": {
+      "author": "Wimbo",
+      "description": "Module Daftar Masyarakat terdata",
+      "name": "Daftar Data",
+      "url": "me.com",
+      "version": "1.0"
+   },
+   
+   "module": {
+		"class" :"DaftarData",
+		"actions": [
+		]	
+	},
+	
+   "menu": "Pendataan/",
+
+   "icon": {
+      "image": "icon.png",
+	  "cls": "icon-module"
+   },
+      
+   "active": 1,
+   
+   "installed": 0
+}

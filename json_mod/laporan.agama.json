@@ -1,0 +1,30 @@
+{
+   "app": "simnangkis",
+   
+   "id": "laporan-agama",
+   
+   "about": {
+      "author": "Wimbo",
+      "description": "Module Laporan Data Masyarakat Miskin Berdasar Agama",
+      "name": "Agama",
+      "url": "me.com",
+      "version": "1.0"
+   },
+   
+   "module": {
+		"class" :"lapAgama",
+		"actions": [
+		]	
+	},
+	
+   "menu": "Laporan/",
+
+   "icon": {
+      "image": "icon.png",
+	  "cls": "icon-module"
+   },
+      
+   "active": 1,
+   
+   "installed": 0
+}

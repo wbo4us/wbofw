@@ -1,0 +1,37 @@
+
+/*
+* icon tambahan untuk khusus modul ini di tuliskan dibawah : 
+* ua = user-administrator 
+*/
+.icon-save {
+    background-image:url(images/save.gif) !important;
+}
+
+.ua-user {
+    background-image:url(images/user.png) !important;
+}
+.ua-user-add {
+    background-image:url(images/user_add.png) !important;
+}
+.ua-user-edit {
+    background-image:url(images/user_edit.png) !important;
+}
+.ua-user-del {
+    background-image:url(images/user_delete.png) !important;
+	
+}
+
+.ua-group {
+    background-image:url(images/users_two.png) !important;
+}
+.ua-group-add {
+    background-image:url(images/users_two_add.png) !important;
+}
+.ua-group-edit {
+    background-image:url(images/users_two_edit.png) !important;
+}
+.ua-group-del {
+    background-image:url(images/users_two_delete.png) !important;
+}
+
+

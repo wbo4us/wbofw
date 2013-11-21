@@ -1,0 +1,30 @@
+{
+   "id": "laporan-usia",
+
+   "app": "simnangkis",
+   
+   "about": {
+      "author": "Wimbo",
+      "description": "Module Laporan Data Masyarakat Miskin Berdasar Usia",
+      "name": "Usia",
+      "url": "me.com",
+      "version": "1.0"
+   },
+   
+   "module": {
+		"class" :"lapUsia",
+		"actions": [
+		]	
+	},
+	
+   "menu": "Laporan/",
+
+   "icon": {
+      "image": "icon.png",
+	  "cls": "icon-module"
+   },
+      
+   "active": 1,
+   
+   "installed": 0
+}

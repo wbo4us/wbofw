@@ -1,0 +1,36 @@
+{
+   "id": "userinfo",
+
+   "app": "mapdss",
+   
+   "about": {
+      "author": "Wimbo",
+      "description": "Module pengolahan data informasi user",
+      "name": "Informasi User",
+      "url": "me.com",
+      "version": "1.0"
+   },
+   
+   "module": {
+		"class" :"UserInfo",
+		"actions": [
+			{ "option":"userinfo", "action": "list", "description": "Lihat Data informasi user", "log" : 0 },
+			{ "option":"userinfo", "action": "add", "description": "Tambah Data informasi user", "log" : 0 },
+			{ "option":"userinfo", "action": "edit", "description": "Ubah Data informasi user", "log" : 0 },
+			{ "option":"userinfo", "action": "del", "description": "Hapus Data informasi user", "log" : 0 },  	 		 
+			{ "option":"userinfo", "action": "export", "description": "Export Data informasi user", "log" : 0 },  	 		 
+			{ "option":"userinfo", "action": "print", "description": "Cetak Data informasi user", "log" : 0 }  	 		 
+		]	
+	},
+	
+   "menu": "User Administration/",
+
+   "icon": {
+      "image": "icon.png",
+	  "cls": "icon-module"
+   },
+      
+   "active": 1,
+   
+   "installed": 0
+}

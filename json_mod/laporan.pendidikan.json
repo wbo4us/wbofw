@@ -1,0 +1,30 @@
+{
+   "id": "laporan-pendidikan",
+
+   "app": "simnangkis",
+   
+   "about": {
+      "author": "Wimbo",
+      "description": "Module Laporan Data Masyarakat Miskin Berdasar Tingkat Pendidikan",
+      "name": "Pendidikan",
+      "url": "me.com",
+      "version": "1.0"
+   },
+   
+   "module": {
+		"class" :"lapPendidikan",
+		"actions": [
+		]	
+	},
+	
+   "menu": "Laporan/",
+
+   "icon": {
+      "image": "icon.png",
+	  "cls": "icon-module"
+   },
+      
+   "active": 1,
+   
+   "installed": 0
+}

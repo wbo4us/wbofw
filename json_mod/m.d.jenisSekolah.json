@@ -1,0 +1,30 @@
+{
+   "id": "masterdata-sekolah",
+
+   "app": "simnangkis",
+   
+   "about": {
+      "author": "Wimbo",
+      "description": "Module Master Data Jenis Sekolah",
+      "name": "Jenis Sekolah",
+      "url": "me.com",
+      "version": "1.0"
+   },
+   
+   "module": {
+		"class" :"MDSekolah",
+		"actions": [
+		]	
+	},
+	
+   "menu": "Masterdata/",
+
+   "icon": {
+      "image": "icon.png",
+	  "cls": "icon-module"
+   },
+      
+   "active": 1,
+   
+   "installed": 0
+}

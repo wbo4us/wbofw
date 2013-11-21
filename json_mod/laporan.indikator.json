@@ -1,0 +1,30 @@
+{
+   "id": "laporan-indikator",
+
+   "app": "simnangkis",
+   
+   "about": {
+      "author": "Wimbo",
+      "description": "Module Laporan Data Masyarakat Miskin Berdasar Indikator",
+      "name": "Indikator",
+      "url": "me.com",
+      "version": "1.0"
+   },
+   
+   "module": {
+		"class" :"lapIndikator",
+		"actions": [
+		]	
+	},
+	
+   "menu": "Laporan/",
+
+   "icon": {
+      "image": "icon.png",
+	  "cls": "icon-module"
+   },
+      
+   "active": 1,
+   
+   "installed": 0
+}

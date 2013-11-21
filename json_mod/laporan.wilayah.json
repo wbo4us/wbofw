@@ -1,0 +1,30 @@
+{
+   "id": "laporan-wilayah",
+
+   "app": "simnangkis",
+   
+   "about": {
+      "author": "Wimbo",
+      "description": "Module Laporan Data Masyarakat Miskin Berdasar Wilayah",
+      "name": "Wilayah",
+      "url": "me.com",
+      "version": "1.0"
+   },
+   
+   "module": {
+		"class" :"lapWilayah",
+		"actions": [
+		]	
+	},
+	
+   "menu": "Laporan/",
+
+   "icon": {
+      "image": "icon.png",
+	  "cls": "icon-module"
+   },
+      
+   "active": 1,
+   
+   "installed": 0
+}

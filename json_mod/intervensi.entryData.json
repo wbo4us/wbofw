@@ -1,0 +1,30 @@
+{
+   "id": "intervensi-listdata",
+
+   "app": "simnangkis",
+   
+   "about": {
+      "author": "Wimbo",
+      "description": "Module Data Daftar Intervensi Program Kepada Masyarakat Miskin",
+      "name": "Daftar Intervensi",
+      "url": "me.com",
+      "version": "1.0"
+   },
+   
+   "module": {
+		"class" :"DaftarIntervensiProgram",
+		"actions": [
+		]	
+	},
+	
+   "menu": "Intervensi Program/",
+
+   "icon": {
+      "image": "icon.png",
+	  "cls": "icon-module"
+   },
+      
+   "active": 1,
+   
+   "installed": 0
+}
