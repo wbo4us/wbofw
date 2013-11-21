@@ -10,6 +10,8 @@ Application Framework WBO
   sebuah aplikasi berbasis web. Modul-modul yang dikembangkan dalam aplikasi
   diletakan dalam folder ./modules
 
+Silahkan dimanfaatkan dan silahkan dikembangkan jika berminat.
+
 silahkan kontak wbo4us@gmail.com jika anda ingin bertanya tentang framework aplikasi ini
 
 Saya sedang mencari tempat hosting untuk menaruh aplikasi agar bisa dijalankan,
