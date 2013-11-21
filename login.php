@@ -32,7 +32,6 @@
 <div class="container">
 <h1><?php echo _TITLE; ?></h1>
 	<section id="content">
-		<img class="logo-sleman" src="image/logo-sleman-100px.jpg" width="100" height="121" />
 		<form autocomplete="off" method="POST" action="login-exec.php">
 			<h2>Silahkan Login</h2>
 			<div>
