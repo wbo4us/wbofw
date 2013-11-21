@@ -17,3 +17,9 @@ silahkan kontak wbo4us@gmail.com jika anda ingin bertanya tentang framework apli
 Saya sedang mencari tempat hosting untuk menaruh aplikasi agar bisa dijalankan,
 hubungi saya jika ada yang berminat mensedekahkan space servernya untuk hosting framework aplikasi ini.
 							
+Contoh Screencapture
+
+https://github.com/wbo4us/wbofw/blob/master/2.jpg
+https://github.com/wbo4us/wbofw/blob/master/3.jpg
+https://github.com/wbo4us/wbofw/blob/master/4.jpg
+https://github.com/wbo4us/wbofw/blob/master/5.jpg
