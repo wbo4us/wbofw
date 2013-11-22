@@ -23,3 +23,5 @@ https://github.com/wbo4us/wbofw/blob/master/2.jpg
 https://github.com/wbo4us/wbofw/blob/master/3.jpg
 https://github.com/wbo4us/wbofw/blob/master/4.jpg
 https://github.com/wbo4us/wbofw/blob/master/5.jpg
+
+<a href="http://www.flickr.com/photos/109531669@N08/10987098573/" title="5 oleh wbo4us, di Flickr"><img src="http://farm6.staticflickr.com/5482/10987098573_07d9050d57.jpg" width="500" height="281" alt="5"></a>
