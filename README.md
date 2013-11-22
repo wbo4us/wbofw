@@ -14,7 +14,7 @@ Silahkan dimanfaatkan dan silahkan dikembangkan jika berminat.
 
 silahkan kontak wbo4us@gmail.com jika anda ingin bertanya tentang framework aplikasi ini
 
-Saya sedang mencari tempat hosting untuk menaruh aplikasi agar bisa dijalankan,
+Saya sedang mencari tempat hosting untuk menaruh aplikasi agar bisa dijalankan untuk demo,
 hubungi saya jika ada yang berminat mensedekahkan space servernya untuk hosting framework aplikasi ini.
 							
 Contoh Screencapture
