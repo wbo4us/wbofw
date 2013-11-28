@@ -16,6 +16,9 @@ silahkan kontak wbo4us@gmail.com jika anda ingin bertanya tentang framework apli
 
 Saya sedang mencari tempat hosting untuk menaruh aplikasi agar bisa dijalankan untuk demo,
 hubungi saya jika ada yang berminat mensedekahkan space servernya untuk hosting framework aplikasi ini.
+
+Silahkan diterjemahkan dalam bahasa anda sendiri			
+Please translate into your own language			
 							
 Contoh Screencapture
 
