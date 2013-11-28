@@ -1,7 +1,7 @@
 wbofw
 =====
 
-wbofw v2
+WBOFW-v.2
 
 Application Framework WBO
   adalah sebuah framework
